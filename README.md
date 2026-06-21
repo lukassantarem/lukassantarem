@@ -17,11 +17,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge\&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge\&logo=git)
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true)
 
-## 📫 Contact
+
+
+💻 Most Used Languages
+
+
+
+
+📫 Contact
 
 [LinkedIn] - www.linkedin.com/in/andré-lucas-8a6855330
 [Email] - lukassantarem01@gmail.com
