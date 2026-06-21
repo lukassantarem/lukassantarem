@@ -1,3 +1,5 @@
+<h1 align="center">Hi there 👋, I'm Andre Lucas</h1>
+
 <h3 align="center">Software Engineering Student at UFAM 🚀</h3>
 
 * 🎓 Currently studying Software Engineering at UFAM
@@ -17,17 +19,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge\&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge\&logo=git)
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukassantarem\&show_icons=true\&theme=tokyonight)
 
+## 💻 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukassantarem\&layout=compact\&theme=tokyonight)
 
-💻 Most Used Languages
-
-
-
-
-📫 Contact
+## 📫 Contact
 
 [LinkedIn] - www.linkedin.com/in/andré-lucas-8a6855330
 [Email] - lukassantarem01@gmail.com
