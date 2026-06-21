@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Andre Lucas</h1>
-
 <h3 align="center">Software Engineering Student at UFAM 🚀</h3>
 
 * 🎓 Currently studying Software Engineering at UFAM
