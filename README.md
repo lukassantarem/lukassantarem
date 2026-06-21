@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Andre Lucas</h1>
 
-<!--
-**lukassantarem/lukassantarem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software Engineering Student at UFAM 🚀</h3>
 
-Here are some ideas to get you started:
+* 🎓 Currently studying Software Engineering at UFAM
+* 🔬 PIBIC Researcher at FAPEAM
+* 🎮 Currently developing a web game using JavaScript
+* 🧪 Interested in QA, Software Testing and Cybersecurity
+* 🌱 Currently learning more about Web Development and Software Engineering
+* 💬 Ask me about JavaScript, Python, C and Software Testing
+* ⚡ Fun fact: I used to be interested in Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge\&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge\&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge\&logo=git)
+
+## 📊 GitHub Stats
+
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME\&show_icons=true)
+
+## 📫 Contact
+
+[LinkedIn] - www.linkedin.com/in/andré-lucas-8a6855330
+[Email] - lukassantarem01@gmail.com
