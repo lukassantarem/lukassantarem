@@ -8,7 +8,6 @@
 * 🧪 Interested in QA, Software Testing and Cybersecurity
 * 🌱 Currently learning more about Web Development and Software Engineering
 * 💬 Ask me about JavaScript, Python, C and Software Testing
-* ⚡ Fun fact: I used to be interested in Game Development
 
 ## 🛠 Skills
 
